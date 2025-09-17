@@ -1,0 +1,5 @@
+Django>=3.2
+djangorestframework>=3.12
+pytest>=6.2
+mysqlclient>=2.0  # or any other database adapter you plan to use
+faker>=9.8  # for generating fake data in tests
