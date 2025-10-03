@@ -1,0 +1,22 @@
+{
+  "oefeningen": [
+    {
+      "id": 1,
+      "titel": "Dribbelwedstrijd",
+      "doelgroep": "U12",
+      "duur": 15,
+      "thema": "Dribbelen",
+      "beschrijving": "Oefening gericht op dribbelen onder druk.",
+      "teaching_points": ["Kijk naar voren", "Bescherm de bal"]
+    },
+    {
+      "id": 2,
+      "titel": "Pass en cut",
+      "doelgroep": "U14",
+      "duur": 20,
+      "thema": "Passing",
+      "beschrijving": "Basis pass en cut oefening.",
+      "teaching_points": ["Tempo behouden", "Snelle pas"]
+    }
+  ]
+}
